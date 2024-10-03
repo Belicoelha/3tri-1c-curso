@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Curiosidade',
-    'Porque as estrelas três marias tem esse nome na tradição crstã?',
+    'Porque as estrelas três marias tem esse nome na tradição cristã?',
     'As estrelas são associadas ás três mulheres que visitaram o túmulo de jesus na ressurreição'
 )
 
