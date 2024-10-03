@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Curiosidade',
+    'Quem escreveu o livro "Alquimista"?',
+    'Paulo Coelho'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Curiosidade',
+    'Porque as estrelas três marias tem esse nome na tradição crstã?',
+    'As estrelas são associadas ás três mulheres que visitaram o túmulo de jesus na ressurreição'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Curiosidade',
+    'Do que uma coruja se alimenta?',
+    'De roedores, morcegos, répteis, anfíbios, insetos e pequenas aves'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Curiosidade',
+    'do que é feito o eternit?',
+    'de fibra, cimento e papel-jornal'
+)
+
+criaCartao(
+    'Curiosidade',
+    'Qual é a raça do maior cachorro brasileiro?',
+    'Fila brasileiro'
+)
+
+criaCartao(
+    'Curiosidade',
+    'Quantos dentes tem uma piralha?',
+    '28 dentes'
 )
